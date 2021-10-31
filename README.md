@@ -2,7 +2,7 @@
 A Basic react js application built for creating your clickbait notes and notify you for your upcoming events as well.
 
 ## Live Preview :
-<img src="/Users/bindu/Desktop/Notifi-me/Other Resources/LP.jpeg">
+<img src="Resources/LP.jpeg">
 Here, We Have a Toggle Button at the top right for Dark mode Experience to the user according to their perference. You can create as many notes under the limit of 500 words and then save it. Later, If ou feel like deleting the note you can click on the bin placed at the bottom left of the note. when ou are done with the note you can click on the save button to save it and you'll recieve a pop up for adding another note.
 <br><br>
 
