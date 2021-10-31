@@ -9,7 +9,7 @@ Here, We Have a Toggle Button at the top right for Dark mode Experience to the u
 # Installing : 
 
 - Clone the repo to make it available on your local system by using ```git clone <FORKED_REPO_URL>```
-- cd into the project directory i.e  - ```cd DesktopAssitant```
+- cd into the project directory i.e  - ```cd Notifi-me```
 
 <br>
 
